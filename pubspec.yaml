@@ -1,0 +1,23 @@
+name: chow_touchables
+description: "This package gives you access to the Touchableopacity widget. This Package uses the Inkwell to allow interaction and animated to opacity of the widget on touch events."
+version: 0.0.2
+homepage: https://github.com/ulims/Chow-Touchables.git
+repository: https://github.com/ulims/Chow-Touchables.git
+
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
+
